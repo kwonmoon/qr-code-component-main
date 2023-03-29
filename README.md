@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/kwonmoon/qr-code-component-main)
-- Live Site URL: [Netlify](https://)
+- Live Site URL: [Netlify](https://gleaming-kringle-d54b51.netlify.app/)
 
 ## My process
 
